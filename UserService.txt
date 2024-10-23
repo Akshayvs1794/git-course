@@ -1,3 +1,4 @@
 Get the user data ..
 add User data in UserService 
 here we adding new feature : user avatar for user ..
+user can interact with AI in this App ..
