@@ -3,3 +3,4 @@ add User data in UserService
 here we adding new feature : user avatar for user ..
 user will get updates from app admin
 now here we are in time travelling to new commit ..
+here we use 'git stash' command ..
