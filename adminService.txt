@@ -1,8 +1,5 @@
 here we adding some new features for admin and admin services
 admin can add user, update, delete user from database ..
 admin service has so many features that nobuddy can access
-<<<<<<< HEAD
+
 closing the mysql database connection ..
-=======
-closing the database connection ..
->>>>>>> 3e5b9be09edf047c11f8cead0d6f738b6da736a1
